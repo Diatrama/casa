@@ -1,0 +1,80 @@
+---
+title: "Acerca de Nosotros"
+pagetitle: "Acerca de"
+---
+
+::: {.about-header}
+# Quiénes somos
+
+Somos una empresa comprometida con la transición energética de Latinoamérica.
+:::
+
+## Nuestra historia
+
+**SolarVerde** nació en 2018 con una misión clara: hacer que la energía solar sea accesible para todos. Lo que comenzó como un pequeño equipo de tres ingenieros apasionados, hoy es una empresa con presencia en 5 países y más de 1,200 instalaciones exitosas.
+
+Creemos que el futuro se construye con decisiones sostenibles, y cada panel que instalamos es un paso más hacia un planeta más limpio.
+
+## Nuestra misión
+
+> Democratizar el acceso a la energía solar, ofreciendo soluciones de alta calidad, accesibles y con un servicio excepcional que genere un impacto positivo en las personas y el medio ambiente.
+
+## Nuestra visión
+
+Ser líderes en soluciones energéticas renovables en la región, reconocidos por nuestra innovación, confiabilidad y compromiso con la sostenibilidad.
+
+## Nuestros valores
+
+::: {.values-grid}
+
+::: {.value-card}
+### 🌍 Sostenibilidad
+Cada decisión que tomamos considera el impacto ambiental.
+:::
+
+::: {.value-card}
+### 🤝 Compromiso
+Cumplimos lo que prometemos, siempre.
+:::
+
+::: {.value-card}
+### 💡 Innovación
+Buscamos constantemente mejores soluciones tecnológicas.
+:::
+
+::: {.value-card}
+### ⭐ Excelencia
+La calidad no es negociable en ningún proyecto.
+:::
+
+:::
+
+## Nuestro equipo
+
+::: {.team-grid}
+
+::: {.team-card}
+### Ing. María González
+**Directora General**  
+Ingeniera eléctrica con 15 años de experiencia en energías renovables.
+:::
+
+::: {.team-card}
+### Ing. Carlos Ramírez
+**Director Técnico**  
+Especialista en sistemas fotovoltaicos y almacenamiento energético.
+:::
+
+::: {.team-card}
+### Lic. Ana Torres
+**Directora Comercial**  
+Experta en desarrollo de negocios y relaciones con clientes.
+:::
+
+:::
+
+## Certificaciones
+
+- ✅ Certificación ISO 9001:2015
+- ✅ Instaladores certificados NABCEP
+- ✅ Miembro de la Asociación Latinoamericana de Energía Solar

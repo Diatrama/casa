@@ -1,0 +1,85 @@
+---
+title: "Contacto"
+pagetitle: "Contacto"
+---
+
+::: {.contact-header}
+# Hablemos de tu proyecto
+
+Cuéntanos qué necesitas y te responderemos en menos de 24 horas.
+:::
+
+::: {.contact-container}
+
+::: {.contact-info}
+
+## Información de contacto
+
+**📍 Dirección**  
+Av. Energía Solar 1234, Piso 5  
+Ciudad de México, CDMX 01000
+
+**📞 Teléfono**  
++52 (55) 1234-5678
+
+**✉️ Email**  
+info@solarverde.com
+
+**🕒 Horario**  
+Lunes a Viernes: 9:00 - 18:00  
+Sábados: 9:00 - 13:00
+
+:::
+
+::: {.contact-form}
+
+## Envíanos un mensaje
+
+<form action="https://formspree.io/f/TU_CODIGO" method="POST">
+
+<div class="form-group">
+<label for="nombre">Nombre completo *</label>
+<input type="text" id="nombre" name="nombre" required>
+</div>
+
+<div class="form-group">
+<label for="email">Correo electrónico *</label>
+<input type="email" id="email" name="email" required>
+</div>
+
+<div class="form-group">
+<label for="telefono">Teléfono</label>
+<input type="tel" id="telefono" name="telefono">
+</div>
+
+<div class="form-group">
+<label for="tipo">Tipo de proyecto *</label>
+<select id="tipo" name="tipo" required>
+<option value="">Selecciona una opción</option>
+<option value="residencial">Residencial</option>
+<option value="comercial">Comercial</option>
+<option value="agroindustrial">Agroindustrial</option>
+<option value="mantenimiento">Mantenimiento</option>
+</select>
+</div>
+
+<div class="form-group">
+<label for="mensaje">Mensaje *</label>
+<textarea id="mensaje" name="mensaje" rows="5" required></textarea>
+</div>
+
+<button type="submit" class="btn-submit">Enviar mensaje</button>
+
+</form>
+
+:::
+
+:::
+
+::: {.cta}
+## ¿Prefieres una llamada?
+
+Agenda una consulta gratuita con nuestros asesores.
+
+[Llamar ahora](tel:+525512345678){.btn .btn-light}
+:::

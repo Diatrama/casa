@@ -1,0 +1,100 @@
+---
+title: "SolarVerde"
+pagetitle: "Inicio"
+---
+
+::: {.hero}
+# Energía solar para un futuro brillante ☀️
+
+Soluciones fotovoltaicas inteligentes para hogares y empresas.  
+Ahorra hasta un **70% en tu factura eléctrica** mientras cuidas el planeta.
+
+[Conoce más](#nuestros-servicios){.btn .btn-primary}
+[Solicitar cotización](contact.qmd){.btn .btn-outline}
+:::
+
+## Nuestros servicios {#nuestros-servicios}
+
+::: {.services-grid}
+
+::: {.service-card}
+### 🏠 Residencial
+Instalación de paneles solares para tu hogar con monitoreo en tiempo real y garantía de 25 años.
+:::
+
+::: {.service-card}
+### 🏢 Comercial
+Sistemas de alta eficiencia para empresas que buscan reducir costos y su huella de carbono.
+:::
+
+::: {.service-card}
+### 🌾 Agroindustrial
+Soluciones robustas para el sector agrícola, con bombeo solar y electrificación rural.
+:::
+
+::: {.service-card}
+### 🔧 Mantenimiento
+Servicio técnico especializado, limpieza y monitoreo continuo de tus paneles.
+:::
+
+:::
+
+## ¿Por qué elegirnos?
+
+::: {.features-grid}
+
+::: {.feature}
+### 💰 Ahorro garantizado
+Reduce tu factura eléctrica desde el primer mes.
+:::
+
+::: {.feature}
+### 🌱 100% renovable
+Energía limpia sin emisiones de CO₂.
+:::
+
+::: {.feature}
+### 🛡️ Garantía extendida
+25 años en paneles y 10 en inversores.
+:::
+
+::: {.feature}
+### 📞 Soporte 24/7
+Acompañamiento técnico permanente.
+:::
+
+:::
+
+## Nuestro impacto
+
+::: {.stats}
+::: {.stat}
+### 1,200+
+**Instalaciones** realizadas
+:::
+
+::: {.stat}
+### 8 MW
+**Capacidad** instalada
+:::
+
+::: {.stat}
+### 4,500 ton
+**CO₂** evitadas al año
+:::
+
+::: {.stat}
+### 98%
+**Clientes** satisfechos
+:::
+:::
+
+---
+
+::: {.cta}
+## ¿Listo para dar el salto a la energía solar?
+
+Contáctanos hoy y recibe una **cotización gratuita** sin compromiso.
+
+[Contáctanos ahora](contact.qmd){.btn .btn-light}
+:::

@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SolarVerde"
+  navbar:
+    background: "#1b4332"
+    foreground: "#ffffff"
+    title: "☀️ SolarVerde"
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Acerca de"
+        href: about.qmd
+      - text: "Contacto"
+        href: contact.qmd
+  page-footer:
+    background: "#1b4332"
+    foreground: "#ffffff"
+    left: "© 2025 SolarVerde. Energía limpia para todos."
+    right:
+      - icon: github
+        href: https://github.com
+      - icon: linkedin
+        href: https://linkedin.com
+      - icon: instagram
+        href: https://instagram.com
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
